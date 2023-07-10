@@ -179,7 +179,7 @@ header .links ul li:not(:last-child) a {
 }
 
 .landing {
-    background-image: url(/CSS/Images/rocky-mountains-4k-j7.jpg);
+    background-image: url(Images/rocky-mountains-4k-j7.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
